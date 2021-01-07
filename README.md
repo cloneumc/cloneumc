@@ -3,11 +3,13 @@
 - 🔭 I’m currently working on little bit of everything
 - :alien: This is my weird work profile 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### ⚙️ &nbsp;GitHub Analytics
 
-  <img align="left" alt="My Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cloneumc&show_icons=true&hide_border=true&theme=synthwave" />
-
-</details>
+<p align="center">
+<a href="https://github.com/cloneumc">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cloneumc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cloneumc&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
 
 [website]: https://github.com/UMC25
