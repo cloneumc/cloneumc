@@ -1,7 +1,7 @@
 ### Hi there, I'm GitCloneUMC - aka [UMC25][website] 👋
 
 - 🔭 I’m currently working on little bit of everything
-- :alien: This is my weird work profile 
+- :alien: This is my weird-works profile 
 
 ### ⚙️ &nbsp;GitHub Analytics
 
