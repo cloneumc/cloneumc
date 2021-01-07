@@ -7,8 +7,8 @@
 
 <details align="left">
 <a href="https://github.com/cloneumc">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=cloneumc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cloneumc&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cloneumc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cloneumc&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </details>
 
