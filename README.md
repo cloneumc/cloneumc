@@ -1,6 +1,7 @@
-### Hi there, I'm UMC - aka [UMC25][website] 👋
+### Hi there, I'm GitCloneUMC - aka [UMC25][website] 👋
 
 - 🔭 I’m currently working on little bit of everything
+- :alien: This is my weird work profile 
 
 <details>
   <summary>:zap: GitHub Stats</summary>
