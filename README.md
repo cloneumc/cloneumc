@@ -1,4 +1,4 @@
-### Hi there, I'm UMC - aka [cloneumc][website] 👋
+### Hi there, I'm UMC - aka [UMC25][website] 👋
 
 - 🔭 I’m currently working on little bit of everything
 
