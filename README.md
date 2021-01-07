@@ -1,4 +1,4 @@
-### Hi there, I'm GitCloneUMC - aka [UMC25][website] 👋
+### Hi there, I'm GitCloneUMC - A.K.A. [UMC25][website] 👋
 
 - 🔭 I’m currently working on little bit of everything
 - :alien: This is my weird-works profile 
